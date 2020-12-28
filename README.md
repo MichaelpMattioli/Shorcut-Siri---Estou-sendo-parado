@@ -6,22 +6,23 @@ Link: https://www.reddit.com/r/shortcuts/comments/9huqiw/getting_pulled_over_by_
 
 Foi um atalho inspirado no caso de abusos policiais, promovendo evidências de tais abusos. Contudo acredito que seja um atalho que possa ser utilizado em várias ocasiões como qualquer abuso, que assim envie um alerta e grave a situação.
 
-Segue o link para a versão português: https://www.icloud.com/shortcuts/15e2893a71184e10bc7fcadae7f4d07a
+Segue o link para a versão português: https://www.icloud.com/shortcuts/4eec52bb671d41ca8abdfca49273085c
 
 ## O que esse atalho faz?
 
 Este atalho segue uma rotina para que o iphone envie informações de localização e vídeo para algum contato da sua escolha quando ativado, ele segue os seguintes passos:
 
- - Pausa a música que está no seu iPhone.
  - Ativa o não pertube.
  - Define o brilho em 0% ( para que evite a visualização da sua tela ).
+ - Define volume do dispositivo em 0%.
  - Envia uma mensagem automaticamente apresentando: Rua, Cidade, Latitude, Longitude e Altitude, para um contato de sua preferência.
  - Inicia uma gravação da sua câmera frontal (terminar a gravação deve ser feita manualmente), e ao finalizar a gravação:
  - Salva em sua bibliotéca de fotos.
- - Define o brilho do iPhone em 60%.
+ - Define o brilho do iPhone como estava.
+ - Define o volume do iPhone como estava.
  - Desativa o não pertube.
- - [MANUAL]Envia o vídeo para um contato de sua preferência.
- - [MANUAL]Abre um menu para que você escolha salvar o vídeo no Dropbox ou no iCloud Drive.
+ - Envia o vídeo para um contato de sua preferência (Apertar o botão enviar deve ser feito manualmente).
+ - Abre um menu para que você escolha salvar o vídeo no Dropbox ou no iCloud Drive.
  
 Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem que o usuário clique na seta para confirmar o envio.
 
