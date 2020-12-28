@@ -6,6 +6,8 @@ Link: https://www.reddit.com/r/shortcuts/comments/9huqiw/getting_pulled_over_by_
 
 Foi um atalho inspirado no caso de abusos policiais, promovendo evidências de tais abusos. Contudo acredito que seja um atalho que possa ser utilizado em várias ocasiões como qualquer abuso, que assim envie um alerta e grave a situação.
 
+Segue o link para a versão português: https://www.icloud.com/shortcuts/15e2893a71184e10bc7fcadae7f4d07a
+
 ## O que esse atalho faz?
 
 Este atalho segue uma rotina para que o iphone envie informações de localização e vídeo para algum contato da sua escolha quando ativado, ele segue os seguintes passos:
