@@ -24,7 +24,7 @@ Este atalho segue uma rotina para que o iphone envie informações de localizaç
 Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem que o usuário clique na seta para confirmar o envio.
 
 
-#######Algumas perguntas frequentes feita para RobertAPetersen:
+###### Algumas perguntas frequentes feita para RobertAPetersen:
 
 **Posso rodar esse atalho com a tela bloqueada?**
 
