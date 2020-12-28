@@ -6,7 +6,7 @@ Foi um atalho inspirado no caso de George Floyd, promovendo evidências de abuso
 
 ## O que esse atalho faz?
 
-Este atalho segue uma rotina para que o iphone envie informações de localização e video para algum contato da sua escolha quando ativado, ele segue os seguintes passos:
+Este atalho segue uma rotina para que o iphone envie informações de localização e vídeo para algum contato da sua escolha quando ativado, ele segue os seguintes passos:
 
  - Pausa a música que está no seu iPhone.
  - Ativa o não pertube.
@@ -18,3 +18,5 @@ Este atalho segue uma rotina para que o iphone envie informações de localizaç
  - Desativa o não pertube.
  - Envia o vídeo para um contato de sua preferência.
  - Abre um menu para que você escolha salvar o vídeo no Dropbox ou no iCloud Drive.
+ 
+Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem o que o usuário clique na seta para confirmar o envio.
