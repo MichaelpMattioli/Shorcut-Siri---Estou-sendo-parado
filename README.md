@@ -39,6 +39,7 @@ Para a liberação de Atalhos externos deve seguir os seguintes passos:
  - Habilitar o recurso "Permitir Atalhos Não Confiáveis" (Esses atalhos são confiaveis!)
  - Apartir disso você pode clicar no link de download disponibilizado no inicio do texto.
 
+Observações: Antes mesmo de você aceitar um atalho, você pode verificar como ele funciona, verifique sem medo e se caso desejar instale-o.
 
 ## Algumas perguntas frequentes feita para RobertAPetersen:
 
