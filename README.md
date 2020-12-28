@@ -19,4 +19,4 @@ Este atalho segue uma rotina para que o iphone envie informações de localizaç
  - Envia o vídeo para um contato de sua preferência.
  - Abre um menu para que você escolha salvar o vídeo no Dropbox ou no iCloud Drive.
  
-Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem o que o usuário clique na seta para confirmar o envio.
+Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem que o usuário clique na seta para confirmar o envio.
