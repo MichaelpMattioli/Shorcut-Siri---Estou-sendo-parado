@@ -13,8 +13,8 @@ Este atalho segue uma rotina para que o iphone envie informações de localizaç
  - Pausa a música que está no seu iPhone.
  - Ativa o não pertube.
  - Define o brilho em 0% ( para que evite a visualização da sua tela ).
- - Envia uma mensagem apresentando: Rua, Cidade, Latitude, Longitude e Altitude, para um contato de sua preferência.
- - Inicia uma gravação da sua câmera frontal, e ao finalizar a gravação:
+ - Envia uma mensagem automaticamente apresentando: Rua, Cidade, Latitude, Longitude e Altitude, para um contato de sua preferência.
+ - Inicia uma gravação da sua câmera frontal (terminar a gravação deve ser feita manualmente), e ao finalizar a gravação:
  - Salva em sua bibliotéca de fotos.
  - Define o brilho do iPhone em 60%.
  - Desativa o não pertube.
