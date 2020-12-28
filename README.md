@@ -3,6 +3,7 @@
 Este atalho foi criado por /u/RobertAPetersen no Reddit. @Sonikku_a2 no Twitter, e modificado e traduzido para a versão em Português.
 
 Link do post de RobertAPetersen : https://www.reddit.com/r/shortcuts/comments/9huqiw/getting_pulled_over_by_police/
+Atalho para a versão inglês: https://www.icloud.com/shortcuts/a63fc73463294b2db9a5f79237b1b03b
 
 Foi um atalho inspirado no caso de abusos policiais, promovendo evidências de tais abusos. Contudo acredito que seja um atalho que possa ser utilizado em várias ocasiões como qualquer abuso, que assim envie um alerta e grave a situação.
 
@@ -25,6 +26,18 @@ Este atalho segue uma rotina para que o iphone envie informações de localizaç
  - Abre um menu para que você escolha salvar o vídeo no Dropbox ou no iCloud Drive.
  
 Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem que o usuário clique na seta para confirmar o envio.
+
+## Tutorial de instalação
+
+Ao clicar no link da versão português, o iPhone abrirá o app Atalhos. Nesse momento se você não liberou Atalhos externos nos Ajuste do iPhone a instalação não será possivel.
+
+Para a liberação de Atalhos externos deve seguir os seguintes passos:
+
+ - Ajustes
+ - Pesquisar por "Atalhos"
+ - Clicar no icone ![alt text](https://imgur.com/a/cY7D4PY)
+ - Habilitar o recurso "Permitir Atalhos Não Confiáveis" (Esses atalhos são confiaveis!)
+ - Apartir disso você pode clicar no link de download disponibilizado no inicio do texto.
 
 
 ## Algumas perguntas frequentes feita para RobertAPetersen:
