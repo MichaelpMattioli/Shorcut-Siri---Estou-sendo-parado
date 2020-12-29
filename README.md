@@ -34,7 +34,7 @@ Para a liberação de Atalhos externos deve seguir os seguintes passos:
 
  - Ajustes
  - Pesquisar por "Atalhos"
- - Clicar no icone <img src="https://i.imgur.com/3OrRRqw.jpg" width="20px" height="auto">
+ - Clicar no icone <img src="https://i.imgur.com/3OrRRqw.jpg" width="22px" height="auto">
  - Habilitar o recurso "Permitir Atalhos Não Confiáveis" (Esses atalhos são confiaveis!)
  - Apartir disso você pode clicar no link de download disponibilizado abaixo. 
 
@@ -59,3 +59,11 @@ Pressione o volume para cima, ou clique no botão vermelho para parar a gravaç�
 **Eu posso automaticamente mandar o vídeo?**
 
 Não, depois que você terminar de gravar o vídeo, você manualmente tem que apertar o botão de enviar.
+
+# Atalho 100% automatizado - Apenas para quem tem o App do Dropbox
+
+A partir do atalho acima, configurei o Atalho para que reduza a quantidade de passos manuais para que envie a informação. O único passo que deve ser manual é para parar de gravar o video.
+
+**Porque apenas o Dropbox e não a núvem nativa do iPhone(iCloud Drive)?** 
+
+ - Então, enquanto estava configurando para obter o link da pasta de onde os vídeos são salvos, o iCloud Drive não consegue me enviar o link, apenas links de arquivos existentes e não de pastas, assim não foi possivel configurar para o Drive do iPhone.
