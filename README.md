@@ -8,7 +8,11 @@ Atalho para a versão inglês: https://www.icloud.com/shortcuts/a63fc73463294b2d
 
 Foi um atalho inspirado no caso de abusos policiais, promovendo evidências de tais abusos. Contudo acredito que seja um atalho que possa ser utilizado em várias ocasiões como qualquer abuso, que assim envie um alerta e grave a situação.
 
-Atalho para a versão português: https://www.icloud.com/shortcuts/4eec52bb671d41ca8abdfca49273085c
+## Links para o download do Atalho
+
+Atalho para a versão em inglês: https://www.icloud.com/shortcuts/a63fc73463294b2db9a5f79237b1b03b
+
+Atalho para a versão em português: https://www.icloud.com/shortcuts/4eec52bb671d41ca8abdfca49273085c
 
 ## O que esse atalho faz?
 
