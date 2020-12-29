@@ -3,6 +3,7 @@
 Este atalho foi criado por /u/RobertAPetersen no Reddit. @Sonikku_a2 no Twitter, e modificado e traduzido para a versão em Português.
 
 Link do post de RobertAPetersen : https://www.reddit.com/r/shortcuts/comments/9huqiw/getting_pulled_over_by_police/
+
 Atalho para a versão inglês: https://www.icloud.com/shortcuts/a63fc73463294b2db9a5f79237b1b03b
 
 Foi um atalho inspirado no caso de abusos policiais, promovendo evidências de tais abusos. Contudo acredito que seja um atalho que possa ser utilizado em várias ocasiões como qualquer abuso, que assim envie um alerta e grave a situação.
