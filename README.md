@@ -6,12 +6,6 @@ Link do post de RobertAPetersen : https://www.reddit.com/r/shortcuts/comments/9h
 
 Foi um atalho inspirado no caso de abusos policiais, promovendo evidências de tais abusos. Contudo acredito que seja um atalho que possa ser utilizado em várias ocasiões como qualquer abuso, que assim envie um alerta e grave a situação.
 
-## Links para o download do Atalho
-
-Atalho para a versão em inglês: https://www.icloud.com/shortcuts/a63fc73463294b2db9a5f79237b1b03b
-
-Atalho para a versão em português: https://www.icloud.com/shortcuts/4eec52bb671d41ca8abdfca49273085c
-
 ## O que esse atalho faz?
 
 Este atalho segue uma rotina para que o iphone envie informações de **localização e vídeo** para algum contato da sua escolha quando ativado. Suas ativações podem ser feitas tanto por meio de um botão criado pelo App Atalhos, quanto pelo comando de voz feita para a Siri.
@@ -42,7 +36,13 @@ Para a liberação de Atalhos externos deve seguir os seguintes passos:
  - Pesquisar por "Atalhos"
  - Clicar no icone <img src="https://i.imgur.com/3OrRRqw.jpg" width="20px" height="auto">
  - Habilitar o recurso "Permitir Atalhos Não Confiáveis" (Esses atalhos são confiaveis!)
- - Apartir disso você pode clicar no link de download disponibilizado no inicio do texto.
+ - Apartir disso você pode clicar no link de download disponibilizado abaixo. 
+
+## Links para o download do Atalho
+
+Atalho para a versão em inglês: https://www.icloud.com/shortcuts/a63fc73463294b2db9a5f79237b1b03b
+
+Atalho para a versão em português: https://www.icloud.com/shortcuts/4eec52bb671d41ca8abdfca49273085c
 
 Observações: Antes mesmo de você aceitar um atalho, você pode verificar como ele funciona, verifique sem medo e se caso desejar instale-o.
 
