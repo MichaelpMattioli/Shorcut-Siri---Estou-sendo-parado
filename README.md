@@ -1,4 +1,4 @@
-# Shorcut Siri - Estou sendo parado
+# Shortcut Siri - Estou sendo parado
 
 Este atalho foi criado por /u/RobertAPetersen no Reddit. @Sonikku_a2 no Twitter, e modificado e traduzido para a versão em Português.
 
