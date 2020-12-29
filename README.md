@@ -62,8 +62,30 @@ Não, depois que você terminar de gravar o vídeo, você manualmente tem que ap
 
 # Atalho 100% automatizado - Apenas para quem tem o App do Dropbox
 
-A partir do atalho acima, configurei o Atalho para que reduza a quantidade de passos manuais para que envie a informação. O único passo que deve ser manual é para parar de gravar o video.
+A partir do atalho acima, configurei o Atalho para que reduza a quantidade de passos manuais para que envie a informação. O único passo que deve ser manual é para parar de gravar o vídeo.
 
 **Porque apenas o Dropbox e não a núvem nativa do iPhone(iCloud Drive)?** 
 
  - Então, enquanto estava configurando para obter o link da pasta de onde os vídeos são salvos, o iCloud Drive não consegue me enviar o link, apenas links de arquivos existentes e não de pastas, assim não foi possivel configurar para o Drive do iPhone.
+ 
+## O que esse atalho faz?
+
+Este atalho faz exatamente a mesma coisa que o anterior, contudo ele diminui os passos manuais enviando o vídeo para a núvem do Dropbox, compartilhando automaticamente o link da pasta do vídeo para a pessoa registrada.
+
+Esse Atalho segue os seguintes passos:
+
+ - Ativa o não pertube.
+ - Define o brilho em 0% ( para que evite a visualização da sua tela ).
+ - Define volume do dispositivo em 0%.
+ - Envia uma mensagem automaticamente apresentando: Rua, Cidade, Latitude, Longitude e Altitude, para um contato de sua preferência.
+ - Inicia uma gravação da sua câmera frontal (terminar a gravação deve ser feita manualmente), e ao finalizar a gravação:
+ - Salva em sua bibliotéca de fotos.
+ - Define o brilho do iPhone como estava.
+ - Define o volume do iPhone como estava.
+ - Desativa o não pertube.
+ - Cria uma pasta no Dropbox.
+ - Salva o vídeo gravado nessa pasta.
+ - Gera um link do compartilhamento da pasta.
+ - Envia o link para o contato de sua preferência.
+ 
+Observações: Os envios são feitos por sms, pois pelo WhatsApp não é possivel enviar alguma informação sem que o usuário clique na seta para confirmar o envio.
