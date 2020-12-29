@@ -35,7 +35,7 @@ Para a liberação de Atalhos externos deve seguir os seguintes passos:
 
  - Ajustes
  - Pesquisar por "Atalhos"
- - Clicar no icone <img src="https://i.imgur.com/FAiv75D.png" width="25px" height="auto">
+ - Clicar no icone <img src="https://i.imgur.com/3OrRRqw.jpg" width="20px" height="auto">
  - Habilitar o recurso "Permitir Atalhos Não Confiáveis" (Esses atalhos são confiaveis!)
  - Apartir disso você pode clicar no link de download disponibilizado no inicio do texto.
 
