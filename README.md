@@ -68,7 +68,7 @@ A partir do atalho acima, configurei o Atalho para que reduza a quantidade de pa
 
  - Então, enquanto estava configurando para obter o link da pasta de onde os vídeos são salvos, o iCloud Drive não consegue me enviar o link, apenas links de arquivos existentes e não de pastas, assim não foi possivel configurar para o Drive do iPhone.
  
-## O que esse atalho faz?
+## O que esse atalho modificado faz?
 
 Este atalho faz exatamente a mesma coisa que o anterior, contudo ele diminui os passos manuais enviando o vídeo para a núvem do Dropbox, compartilhando automaticamente o link da pasta do vídeo para a pessoa registrada.
 
